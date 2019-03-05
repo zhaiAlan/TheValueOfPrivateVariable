@@ -22,7 +22,7 @@
 }
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
-    [self way2];
+    [self way3];
 }
 -(void)way1{
     PrivateVariablesClass *classA = [[PrivateVariablesClass alloc] init];

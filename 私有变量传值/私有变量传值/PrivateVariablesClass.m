@@ -18,7 +18,7 @@
 -(void)showPropertyPrivateVariablesClass
 {
     NSLog(@"priviteNum = %@", @(_priviteNum));
-    NSLog(@"pView = %@", _priviteView);
+    NSLog(@"priviteView = %@", _priviteView);
 }
 
 @end
